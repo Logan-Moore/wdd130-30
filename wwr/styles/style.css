@@ -20,12 +20,12 @@ header {
     background-color:#FF4F4F;
 }
 nav a {
-    color:#000;
+    color:#FFD166;
     text-decoration: none;
 }
 nav a:hover {
     background-color:#FFD166;
-    color:#000;
+    color:#FF4F4F;
 }
 .book, .join {
     background-color:#fff;
