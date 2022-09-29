@@ -10,11 +10,11 @@ nav a, #hero-msg h1, #hero-msg h4, .button-box, main section {
 
 #background {
     height: 725px;
-    background-color: #26547C;
+    background-color: #FFD166;
 }
 
 body {
-    background-color:#FFD166;
+    background-color:#26547C;
 }
 header {
     background-color:#FF4F4F;
