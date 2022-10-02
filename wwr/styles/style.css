@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Staatliches&display=swap');
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -6,6 +8,7 @@
 
 nav a, #hero-msg h1, #hero-msg h4, .button-box, main section {
     text-align: center;
+    font-family: Staatliches;
 }
 
 #background {
@@ -15,13 +18,16 @@ nav a, #hero-msg h1, #hero-msg h4, .button-box, main section {
 
 body {
     background-color:#26547C;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 header {
     background-color:#FF4F4F;
+    font-family: Staatliches;
 }
 nav a {
     color:#FFD166;
     text-decoration: none;
+    font-family: Staatliches;
 }
 nav a:hover {
     background-color:#FFD166;
@@ -31,6 +37,7 @@ nav a:hover {
     background-color:#048B67;
     color:#FFD166;
     text-decoration: none;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 .book:hover, .join:hover {
     background-color:#FFD166;
@@ -38,28 +45,35 @@ nav a:hover {
 }
 .msg {
     background-color:#048B67;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 footer {
     background-color:#FF4F4F;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 .home-title {
     color:#fff;
 }
 h4 {
     color:#fff;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 .msg h2 {
     color:#fff;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 .msg p {
     color:#fff;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 footer h3 {
     color:#fff;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 footer a {
     color:#fff;
     text-decoration: none;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 footer a:hover {
     color:#000;
@@ -74,6 +88,7 @@ footer a:hover {
 
 footer p {
     font-size: 1.2em;
+    font-family: ABeeZee, Helvetica, sans-serif;
 }
 footer p a:hover {
     text-decoration: underline;
